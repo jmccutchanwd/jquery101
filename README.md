@@ -1,1 +1,3 @@
-# jquery101
+# JQuery101
+
+Practicing with JQuery.
