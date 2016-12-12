@@ -1,8 +1,9 @@
-# JQuery101
+# jQuery101
+
 
 Practicing with JQuery.
 
-[J-Query Site]("http://jquery.com/")
+[J-Query Site](http://jquery.com/)
 
 
 Install boot strap on every project.
@@ -23,4 +24,6 @@ Add jQuery ```<script>```
 <script src="bower_components/jquery/dist/jquery.js"></script>
 ```
 
-[jQuery Cheat Sheet]("https://oscarotero.com/jquery/"")
+[jQuery Cheat Sheet](https://oscarotero.com/jquery/)
+
+[You Might not Need Jquery](youmightnotneedjquery.com)
