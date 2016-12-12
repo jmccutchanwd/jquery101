@@ -1,5 +1,5 @@
-# JQuery101
+# jQuery101
 
 Practicing with JQuery.
 
-### [J-Query SIte](http://jquery.com/)
+### [jQuery SIte](http://jquery.com/)
